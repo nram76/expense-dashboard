@@ -9,6 +9,8 @@ wheel = "*"
 setuptools = "*"
 cmake = "*"
 psycopg2-binary = "*"
+gunicorn = "*"
+django-on-heroku = "*"
 
 [dev-packages]
 
